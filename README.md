@@ -1,10 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Brian</h1>
 <h3 align="center">Développeur Full Stack TypeScript ( React.js / Node.js )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianfontaine0&label=Profile%20views&color=0e75b6&style=flat" alt="brianfontaine0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianfontaine0" alt="brianfontaine0" /></a> </p>
-
 - 🔭 Je travaille actuellement sur [À deux pas](https://adeuxpas.app)
 
 - 🌱 J'apprends actuellement **Swift UI, Flutter**
