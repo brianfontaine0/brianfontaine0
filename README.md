@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, je suis Brian</h1>
 <h3 align="center">Développeur Full Stack TypeScript ( React.js / Node.js )</h3>
 
-- 🔭 Je travaille actuellement sur [À deux pas](https://adeuxpas.app)
+- 🔭 Je travaille actuellement sur [RestoSaver](https://restosaver.fr)
 
-- 🌱 J'apprends actuellement **Swift UI, Flutter**
+- 🌱 J'apprends actuellement **Swift UI, Flutter, Docker, Docker Swarm, CI/CD, Wordpress Block**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://www.malt.fr/profile/brianfontaine](https://www.malt.fr/profile/brianfontaine)
 
