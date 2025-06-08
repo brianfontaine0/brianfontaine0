@@ -4,7 +4,7 @@
 - 🔭 Je travaille actuellement sur [RestoSaver](https://restosaver.fr)
 - 🌱 J'apprends actuellement : **SwiftUI, Flutter, Docker Swarm, CI/CD, WordPress Block**
 - 👨‍💻 Retrouvez mes projets sur : [Mon profil Malt](https://www.malt.fr/profile/brianfontaine)
-- 📝 Je partage du contenu tech sur : [Mon Instagram](https://www.instagram.com/_fontaine.brian/)
+- 📝 Je partage du contenu tech sur : [Mon Instagram](https://www.instagram.com/brian.fontaineei)
 - 💬 Pose-moi des questions sur : **React, NestJS, Next.js**
 - 📫 Contact : **brian.fontaine0@gmail.com**
 
